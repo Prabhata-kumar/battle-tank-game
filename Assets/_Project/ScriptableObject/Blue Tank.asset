@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 802b710fedcd2b34289875e744068f64, type: 3}
+  m_Name: Blue Tank
+  m_EditorClassIdentifier: 
+  tankType: 3
+  scale: {x: 0, y: 0, z: 0}
+  tankName: Medium Tank
+  speed: 10
+  tankTurnSpeed: 150
+  Health: 300
+  damage: 40
+  color: {r: 0.20667887, g: 0.2627451, b: 1, a: 0}
+  minLaunchForce: 5
+  maxLaunchForce: 20
+  maxChargeTime: 0.75
+  currentLaunchForce: 0
+  chargeSpeed: 0
